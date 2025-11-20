@@ -59,8 +59,8 @@ Includes:
 All results are visualized in the PPT using charts and beautiful pizza-themed slides.
 
 📥 **Uploaded File:**  
-- `pizza_project_slides.pptx`  
-- `final_pizza_project.pptx`  
+- `IDC-Pizza-Analytics-Challenge.pdf`  
+
 
 ---
 
@@ -77,11 +77,3 @@ Some insights extracted:
 
 (All visuals available inside the PDF.)
 
----
-
-## 🚀 How to Run This Project
-
-### 1️⃣ Create a MySQL database
-```sql
-CREATE DATABASE IDC_PIZZA;
-USE IDC_PIZZA;
