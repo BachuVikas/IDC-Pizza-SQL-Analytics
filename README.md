@@ -75,7 +75,7 @@ Some insights extracted:
 - Category performance analysis  
 - Customer behavior patterns  
 
-(All visuals available inside the PPT.)
+(All visuals available inside the PDF.)
 
 ---
 
