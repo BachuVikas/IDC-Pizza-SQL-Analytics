@@ -5,10 +5,6 @@ It demonstrates database creation, data exploration, filtering, joins, aggregati
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🎯 Project Overview
 
 The goal of this project is to analyze pizza sales data and uncover insights related to:
