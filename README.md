@@ -1,0 +1,87 @@
+# 🍕 IDC Pizza SQL Analytics
+
+This project is an end-to-end SQL analytics case study based on the **Great Pizza Analytics Challenge**.  
+It demonstrates database creation, data exploration, filtering, joins, aggregations, and business insights using **MySQL**.
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 🎯 Project Overview
+
+The goal of this project is to analyze pizza sales data and uncover insights related to:
+
+- Most popular pizza categories  
+- Price trends  
+- Customer order behavior  
+- Sales performance  
+- Category-level and size-level demand  
+- Missing data & data quality checks  
+
+I created everything using **MySQL Workbench**, including tables, data loads, all SQL queries, and a final PPT summarizing insights.
+
+---
+
+## 🗄️ Database Schema (4 Tables)
+
+- **pizza_types** → categories, names, ingredients  
+- **pizzas** → pizza variations by size + price  
+- **orders** → order timestamps  
+- **order_details** → items per order  
+
+All tables combined give a complete view of pizza sales operations.
+
+---
+
+## 🧠 Skills Used
+
+- SQL (MySQL)
+- Joins (INNER, LEFT, SELF)
+- Group By, Having, Aggregations
+- Data cleaning (COALESCE, NULL checks)
+- Business intelligence analysis
+- Chart-making & dashboard-style visuals (PPT)
+
+---
+
+## 📊 Deliverables
+
+### ✔️ Full SQL Mini Project  
+Includes:
+- Database creation  
+- 20+ SQL analytical queries  
+- Data quality checks  
+- Sales & category insights  
+
+### ✔️ PowerPoint Presentation  
+All results are visualized in the PPT using charts and beautiful pizza-themed slides.
+
+📥 **Uploaded File:**  
+- `pizza_project_slides.pptx`  
+- `final_pizza_project.pptx`  
+
+---
+
+## 📸 Results & Insights Preview
+
+Some insights extracted:
+
+- Total pizzas sold  
+- Most popular categories  
+- Highest order value  
+- Average price distribution  
+- Category performance analysis  
+- Customer behavior patterns  
+
+(All visuals available inside the PPT.)
+
+---
+
+## 🚀 How to Run This Project
+
+### 1️⃣ Create a MySQL database
+```sql
+CREATE DATABASE IDC_PIZZA;
+USE IDC_PIZZA;
